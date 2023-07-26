@@ -16,7 +16,7 @@ Your questions, resource requests, and pull request contributions are always wel
 - [Papers](#papers)
 - [Websites](#websites)
 - [Videos](#videos)
-- [Repositories](#planning-repositories)
+- [Repositories](#repositories)
 
 ## Papers
 - **Survey**
@@ -46,16 +46,16 @@ Your questions, resource requests, and pull request contributions are always wel
 
 ## Websites
 
-- [mapf.info](http://mapf.info/) - A short description about the framework.
-- [MAPF Visualizer](http://mapf-visualizer.com/) - A short description about the framework.
-- [MAPF Benchmark](http://movingai.com/benchmarks/mapf/index.html) - A short description about the framework.
-- [Foundations of Multi-Agent Path Finding](https://jiaoyangli.me/research/mapf/) - A short description about the framework.
-- [Project "Multi-Agent Path Planning (MAPF)"](http://idm-lab.org/project-p.html) - A short description about the framework.
+- [mapf.info](http://mapf.info/) - 
+- [MAPF Visualizer](http://mapf-visualizer.com/)
+- [MAPF Benchmark](http://movingai.com/benchmarks/mapf/index.html)
+- [Foundations of Multi-Agent Path Finding](https://jiaoyangli.me/research/mapf/)
+- [Project "Multi-Agent Path Planning (MAPF)"](http://idm-lab.org/project-p.html)
 
 ## Videos
 
-- [Lecture 9: Multi-Robot Path Planning](https://youtu.be/VJkFHIUHHXw) - A short description about the software.
-- [AAMAS-22 Tutorial on Recent Advances in Multi-Agent Path Finding](https://youtu.be/H3wRCZf_Mrs) - A short description about the software.
+- [Lecture 9: Multi-Robot Path Planning](https://youtu.be/VJkFHIUHHXw)
+- [AAMAS-22 Tutorial on Recent Advances in Multi-Agent Path Finding](https://youtu.be/H3wRCZf_Mrs)
 
 ## Repositories
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
