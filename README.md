@@ -1,4 +1,4 @@
-# Awesome [Your_Project_Name] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome MAPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome frameworks, libraries, software, and resources related to Multi Agent Path Finding (MAPF).
 
@@ -16,6 +16,7 @@ Your questions, resource requests, and pull request contributions are always wel
 - [Papers](#papers)
 - [Websites](#websites)
 - [Videos](#videos)
+- [Repositories](#planning-repositories)
 
 ## Papers
 - **Survey**
@@ -56,7 +57,7 @@ Your questions, resource requests, and pull request contributions are always wel
 - [Lecture 9: Multi-Robot Path Planning](https://youtu.be/VJkFHIUHHXw) - A short description about the software.
 - [AAMAS-22 Tutorial on Recent Advances in Multi-Agent Path Finding](https://youtu.be/H3wRCZf_Mrs) - A short description about the software.
 
-## Planning Repositories
+## Repositories
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [atb033/multi_agent_path_planning](atb033/multi_agent_path_planning)
