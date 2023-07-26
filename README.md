@@ -63,7 +63,7 @@ Your questions, resource requests, and pull request contributions are always wel
 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
-- [atb033/multi_agent_path_planning](atb033/multi_agent_path_planning)
+- [atb033/multi_agent_path_planning](https://github.com/atb033/multi_agent_path_planning)
 - [PathPlanning/Push-and-Rotate--CBS--PrioritizedPlanning](https://github.com/PathPlanning/Push-and-Rotate--CBS--PrioritizedPlanning)
 - [PathPlanning/ORCA-algorithm](https://github.com/PathPlanning/ORCA-algorithm)
 - [GavinPHR/Space-Time-AStar](https://github.com/GavinPHR/Space-Time-AStar)
