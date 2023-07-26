@@ -4,7 +4,7 @@
 
 ![Alt text](cover.png)
 Welcome to the MAPF resources repository, an organized collection of valuable materials related to Multi Agent Path Finding (MAPF).
-MAPF is the problem of computing collision-free paths for a team of agents from their current locations to given destinations. ([mapf.info](http://mapf.info/index.php/Main/HomePage))
+*MAPF is the problem of computing collision-free paths for a team of agents from their current locations to given destinations.* ([mapf.info](http://mapf.info/index.php/Main/HomePage))
 
 Our primary objective is to build and maintain a classified, community-driven assortment of widely recognized resources. This collection can serve as a reference point, a springboard for research, or simply as a well-curated list of resources for those interested in MAPF.
 
