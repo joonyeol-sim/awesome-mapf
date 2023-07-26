@@ -13,14 +13,14 @@ Your questions, resource requests, and pull request contributions are always wel
 
 
 ## Contents
-***
+
 - [Papers](#papers)
 - [Websites](#websites)
 - [Videos](#videos)
 - [Repositories](#repositories)
 
 ## Papers
-***
+
 - **Survey**
   - [Multi-Agent Path Finding – An Overview](https://www.researchgate.net/publication/336611576_Multi-Agent_Path_Finding_-_An_Overview)
   - [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://arxiv.org/abs/1906.08291)
@@ -47,7 +47,7 @@ Your questions, resource requests, and pull request contributions are always wel
   - [CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces](https://arxiv.org/abs/2201.09467) (CTRM) ([Project](https://omron-sinicx.github.io/ctrm/)) ([Code](https://github.com/omron-sinicx/ctrm))
 
 ## Websites
-***
+
 - [mapf.info](http://mapf.info/) - 
 - [MAPF Visualizer](http://mapf-visualizer.com/)
 - [MAPF Benchmark](http://movingai.com/benchmarks/mapf/index.html)
@@ -55,12 +55,12 @@ Your questions, resource requests, and pull request contributions are always wel
 - [Project "Multi-Agent Path Planning (MAPF)"](http://idm-lab.org/project-p.html)
 
 ## Videos
-***
+
 - [Lecture 9: Multi-Robot Path Planning](https://youtu.be/VJkFHIUHHXw)
 - [AAMAS-22 Tutorial on Recent Advances in Multi-Agent Path Finding](https://youtu.be/H3wRCZf_Mrs)
 
 ## Repositories
-***
+
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning)
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [atb033/multi_agent_path_planning](atb033/multi_agent_path_planning)
