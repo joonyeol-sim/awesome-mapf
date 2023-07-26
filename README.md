@@ -1,6 +1,6 @@
 # Awesome MAPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome frameworks, libraries, software, and resources related to Multi Agent Path Finding (MAPF).
+> A curated list of awesome papers, websites, videos, and repositories related to Multi Agent Path Finding (MAPF).
 
 ![Alt text](cover.png)
 Welcome to the MAPF resources repository, an organized collection of valuable materials related to Multi Agent Path Finding (MAPF).
