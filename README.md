@@ -4,6 +4,7 @@
 
 ![Alt text](cover.png)
 Welcome to the MAPF resources repository, an organized collection of valuable materials related to Multi Agent Path Finding (MAPF).
+MAPF is the problem of computing collision-free paths for a team of agents from their current locations to given destinations. ([mapf.info](http://mapf.info/index.php/Main/HomePage))
 
 Our primary objective is to build and maintain a classified, community-driven assortment of widely recognized resources. This collection can serve as a reference point, a springboard for research, or simply as a well-curated list of resources for those interested in MAPF.
 
@@ -26,6 +27,7 @@ Your questions, resource requests, and pull request contributions are always wel
   - [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://arxiv.org/abs/1906.08291)
   - [Problem Compilation for Multi-Agent Path Finding: a Survey](https://www.ijcai.org/proceedings/2022/0783.pdf)
   - [Planning and Learning in Multi-Agent Path Finding](https://link.springer.com/article/10.1134/S1064562422060229)
+  - [Structure and Intractability of Optimal Multi-Robot Path Planning on Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/8541) (NP-hardness proof)
 - **Search-based Approach**
   - Cooperative Pathfinding [[1]](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIIDE.pdf) [[2]](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIWisdom.pdf) ([Code](https://github.com/yge58/collaborative_a_star_pathfinding))
   - [Conflict-based search for optimal multi-agent pathfinding](https://www.sciencedirect.com/science/article/pii/S0004370214001386?ref=pdf_download&fr=RR-2&rr=7ecc49887d32edb5) (CBS) ([Code](https://github.com/whoenig/libMultiRobotPlanning))
