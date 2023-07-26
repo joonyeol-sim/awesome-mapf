@@ -48,7 +48,7 @@ Your questions, resource requests, and pull request contributions are always wel
 
 ## Websites
 
-- [mapf.info](http://mapf.info/) - 
+- [mapf.info](http://mapf.info/)
 - [MAPF Visualizer](http://mapf-visualizer.com/)
 - [MAPF Benchmark](http://movingai.com/benchmarks/mapf/index.html)
 - [Foundations of Multi-Agent Path Finding](https://jiaoyangli.me/research/mapf/)
