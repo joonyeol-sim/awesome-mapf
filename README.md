@@ -55,6 +55,8 @@ Your questions, resource requests, and pull request contributions are always wel
 - [MAPF Benchmark](http://movingai.com/benchmarks/mapf/index.html)
 - [Foundations of Multi-Agent Path Finding](https://jiaoyangli.me/research/mapf/)
 - [Project "Multi-Agent Path Planning (MAPF)"](http://idm-lab.org/project-p.html)
+- [AAAI-23 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/)
+- [AAMAS-22 Tutorial on Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22)
 
 ## Videos
 
